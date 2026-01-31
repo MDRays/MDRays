@@ -8,10 +8,10 @@ I’m **Muhammad Raihan Alfain Yonanda**, an Aspiring Data Analyst with a solid 
 
 ### 🚀 **About Me**
 
-📈 Current Focus: I am currently most confident in performing Data Analysis and visualization to uncover actionable business insights.
-🌱 Currently Learning: I am continuously deepening my Python and SQL skills while exploring the fundamentals of Machine Learning and Data Engineering.
-🎓 Background: An Economics graduate striving to bridge the gap between business logic and raw data processing.
-💡 Philosophy: I believe that learning is a lifelong journey, and I am committed to growing and gaining experience through every project I undertake.
+- 📈 Current Focus: I am currently most confident in performing Data Analysis and visualization to uncover actionable business insights.
+- 🌱 Currently Learning: I am continuously deepening my Python and SQL skills while exploring the fundamentals of Machine Learning and Data Engineering.
+- 🎓 Background: An Economics graduate striving to bridge the gap between business logic and raw data processing.
+- 💡 Philosophy: I believe that learning is a lifelong journey, and I am committed to growing and gaining experience through every project I undertake.
 
 ---
 
