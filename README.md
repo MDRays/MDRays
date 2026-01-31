@@ -1,23 +1,17 @@
 # **Raihan Alfain - Data Analyst / Data Scientist / Data Engineer**
 
-👋 **Hello and welcome!**
+👋 **Hello World, Welcome!**
 
-I’m *Muhammad Raihan Alfain Yonanda*, a **Data Analyst**, **Data Scientist**, and aspiring **Data Engineer** passionate about bridging the gap between economic theory and data-driven insights. With a solid foundation from **Hacktiv8** and **Digital Skola** bootcamps, I specialize in building automated pipelines and extracting value from complex datasets to drive informed decision-making.
+I’m **Muhammad Raihan Alfain Yonanda**, an Aspiring Data Analyst with a solid foundation in Economics. Having recently completed intensive training programs at **Hacktiv8**, I am dedicated to learning how to transform raw data into meaningful business narratives. With a keen focus on precision and analytical problem-solving, I am constantly honing my skills to deliver insightful, data-driven solutions.
 
 ---
 
 ### 🚀 **About Me**
 
-- 🌱 **Currently Learning**: Scaling data architectures with Apache Spark, advanced orchestration with Apache Airflow, and .
-- 🔍 **Collaboration Interests**: Open to contributing to end-to-end data solutions, specifically in building robust ETL pipelines, SQL-based reporting, and predictive modeling for business growth.
-- 🌐 **Background Insight**: My Bachelor of Economics background allows me to look at data through a business lens, ensuring every insight is aligned with economic realities and market trends.
-
----
-
-### 📫 **Connect with Me**
-
-- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/muhammad-raihan-alfain-yonanda-452b08320/) 
-- **Email**: raihanalfain69@gmail.com 
+📈 Current Focus: I am currently most confident in performing Data Analysis and visualization to uncover actionable business insights.
+🌱 Currently Learning: I am continuously deepening my Python and SQL skills while exploring the fundamentals of Machine Learning and Data Engineering.
+🎓 Background: An Economics graduate striving to bridge the gap between business logic and raw data processing.
+💡 Philosophy: I believe that learning is a lifelong journey, and I am committed to growing and gaining experience through every project I undertake.
 
 ---
 
@@ -33,13 +27,21 @@ I’m *Muhammad Raihan Alfain Yonanda*, a **Data Analyst**, **Data Scientist**, 
 
 ### 🎓 **Education & Certifications**
 
-- **Hacktiv8 Bootcamps**
-  *Core Skills*: Data Analytics, Data Science, ETL Pipelines, and Machine Learning.
-- **Digital Skola Bootcamps**
-  *Core Skills*: Data Analytics, Data Science, ETL Pipelines, and Machine Learning.
-- **BNSP Certification**: Data Science.
-- **Economics Bachelor, Universitas Muhammadiyah Yogyakarta**
+* **Universitas Muhammadiyah Yogyakarta** | **Bachelor of Economics** 
+    * **Thesis**: *The Influence of Macroeconomic Variables on Foreign Direct Investment (FDI) in ASEAN Countries from 2012-2022* 
+* **Hacktiv8 Bootcamps | Comprehensive Data Analytics**
+  * *Core Skills*: Data Wrangling, SQL & Python Programming, Data Visualization & Storytelling, Data Pipeline & Scheduling, and Statistical Analysis.
+* **DigitalSkola Bootcamps | Data Science**
+  * *Core Skills*: SQL (Basic), Python Programming (NumPy & Pandas), Statistics, Visualization, and Machine Learning.
+* **BNSP Certification**: Data Science.
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories, from web scraping projects to automated sales pipelines. I'm always up for a chat about data or economics!
+### 📫 **Connect with Me**
+
+- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/muhammad-raihan-alfain-yonanda-452b08320/) 
+- **Email**: raihanalfain69@gmail.com
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories, from web scraping projects to automated sales pipelines. I'm always up for a chat about data!
