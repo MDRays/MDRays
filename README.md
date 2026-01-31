@@ -2,7 +2,7 @@
 
 👋 **Hello World, Welcome!**
 
-I’m **Muhammad Raihan Alfain Yonanda**, an Aspiring Data Analyst with a solid foundation in Economics. Having recently completed intensive training programs at **Hacktiv8**, I am dedicated to learning how to transform raw data into meaningful business narratives. With a keen focus on precision and analytical problem-solving, I am constantly honing my skills to deliver insightful, data-driven solutions.
+I’m **Muhammad Raihan Alfain Yonanda**, an Aspiring Data Analyst and Data Engineer with a solid foundation in Economics. Having recently completed intensive training programs at **Hacktiv8**, I am dedicated to learning how to transform raw data into meaningful business narratives. With a keen focus on precision and analytical problem-solving, I am constantly honing my skills to deliver insightful, data-driven solutions.
 
 ---
 
